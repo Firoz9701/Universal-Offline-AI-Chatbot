@@ -12,10 +12,9 @@ The **Universal Offline AI Chatbot** is a privacy-respecting, offline-ready assi
 
 It uses a **locally hosted LLM** (`mistral:instruct` via [Ollama](https://ollama.com)) and **semantic search** powered by HuggingFace embeddings and FAISS. You get **fast, accurate responses**, without sending anything to the cloud.
 
-![Universal-AI-ChatBot Offline Cover](https://github.com/user-attachments/assets/7d3bf997-cd88-4371-b012-c723692008d3) <br/>
+![Universal Offline AI Chatbot](./Screenshots/cover.png) <br/>
 
-> **GitHub Link:** [https://github.com/AdityaBhatt3010/Universal-Offline-AI-Chatbot](https://github.com/AdityaBhatt3010/Universal-Offline-AI-Chatbot) <br/>
-> **DockerHub Link:** [https://hub.docker.com/r/adityabhatt3010/ai-chatbot](https://hub.docker.com/r/adityabhatt3010/ai-chatbot) <br/>
+> **GitHub Link:** [https://github.com/Firoz9701/Universal-Offline-AI-Chatbot](https://github.com/Firoz9701/Universal-Offline-AI-Chatbot) <br/>
 
 ---
 
@@ -259,5 +258,10 @@ Automatically re-indexes your new documents using FAISS.
 ## 🧑‍💻 Author
 
 **Firoz Khan** <br/>
+Software Developer | Full Stack Developer <br/>
+[GitHub](https://github.com/Firoz9701/Universal-Offline-AI-Chatbot) 
 
+⭐ If you find this project interesting, consider giving the repository a star!
+
+Built with Python, LangChain, Ollama, FAISS, and Streamlit.
 ---
