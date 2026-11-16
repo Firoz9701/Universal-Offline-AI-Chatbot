@@ -7,7 +7,6 @@
 [![PyPI version](https://img.shields.io/pypi/v/universal-offline-ai-chatbot.svg)](https://pypi.org/project/universal-offline-ai-chatbot/)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
 ![Offline](https://img.shields.io/badge/Offline-LLM-orange)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 The **Universal Offline AI Chatbot** is a privacy-respecting, offline-ready assistant that can chat over **any set of PDFs**. It’s ideal for legal, cybersecurity, academic, enterprise, or technical domains.
 
@@ -259,8 +258,6 @@ Automatically re-indexes your new documents using FAISS.
 
 ## 🧑‍💻 Author
 
-**Aditya Bhatt** <br/>
-Cybersecurity Specialist | VAPT Expert | OSS Contributor <br/>
-[GitHub](https://github.com/AdityaBhatt3010) | [Medium](https://medium.com/@adityabhatt3010) <br/>
+**Firoz Khan** <br/>
 
 ---
