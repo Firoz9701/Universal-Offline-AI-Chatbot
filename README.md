@@ -12,7 +12,7 @@ The **Universal Offline AI Chatbot** is a privacy-respecting, offline-ready assi
 
 It uses a **locally hosted LLM** (`mistral:instruct` via [Ollama](https://ollama.com)) and **semantic search** powered by HuggingFace embeddings and FAISS. You get **fast, accurate responses**, without sending anything to the cloud.
 
-![Universal Offline AI Chatbot](./Screenshots/cover.png) <br/>
+![Universal Offline AI Chatbot](./Screenshots/Cover.png) <br/>
 
 > **GitHub Link:** [https://github.com/Firoz9701/Universal-Offline-AI-Chatbot](https://github.com/Firoz9701/Universal-Offline-AI-Chatbot) <br/>
 
